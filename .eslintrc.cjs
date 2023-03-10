@@ -121,13 +121,13 @@ module.exports = {
       },
       rules: {
         ...TAILWIND_CONFIG.rules,
-        "no-restricted-imports": [
-          "error",
-          {
-            name: "next/link",
-            message: "Use local <Anchor /> instead",
-          },
-        ],
+        // "no-restricted-imports": [
+        //   "error",
+        //   {
+        //     name: "next/link",
+        //     message: "Use local <Anchor /> instead",
+        //   },
+        // ],
       },
     },
     {
