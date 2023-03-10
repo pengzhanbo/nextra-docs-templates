@@ -1,0 +1,27 @@
+{
+  "index": {
+    "type": "page",
+    "title": "Home",
+    "display": "hidden",
+    "theme": {
+      "layout": "raw"
+    }
+  },
+  "guide": {
+    "type": "page",
+    "title": "Guide"
+  },
+  "about": {
+    "title": "About",
+    "type": "page",
+    "theme": {
+      "typesetting": "article"
+    }
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://twitter.com/shuding_",
+    "newWindow": true
+  }
+}
