@@ -45,7 +45,9 @@
 }
 
 .heroActions {
-  margin-top: 2rem;
+  margin: 2rem 0 5rem;
+  padding-left: max(env(safe-area-inset-left),1.5rem);
+  padding-right: max(env(safe-area-inset-right),1.5rem);
 }
 
 a.cta {
